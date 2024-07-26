@@ -1,1 +1,1 @@
-# mern-stack-example-app
+# MERN Stack Example App
